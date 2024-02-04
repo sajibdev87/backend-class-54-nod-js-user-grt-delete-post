@@ -1,0 +1,1 @@
+# class-54-nod-js-user-grt-delete-post
